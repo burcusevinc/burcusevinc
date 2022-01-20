@@ -5,13 +5,13 @@
 - 💬 Ask me about anything, i'm happy to help.
 - 📫 How to reach me: sburcusevinc@gmail.com
 
-## Connect With Me
+### Connect With Me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 
 <br>
 
-## Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -26,8 +26,9 @@
 
 <br>
 
-## My Github Stats
-
+### My Github Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=burcusevinc&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burcusevinc&theme=tokyonight)
 
 
