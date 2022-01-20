@@ -21,7 +21,6 @@
 [<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" />][html]
 [<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][css]
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][csharp]
 
 <br>
 
