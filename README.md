@@ -26,7 +26,7 @@
 
 <br>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burcusevinc&theme=tokyonight)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=burcusevinc&theme=tokyonight)
 
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
