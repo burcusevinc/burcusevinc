@@ -19,6 +19,7 @@
 [<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][css]
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/csharp/csharp.png" />][csharp]
+[<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][csharp]
 
 <br />
 
@@ -31,6 +32,7 @@
 [css]: https://css-tricks.com/
 [mysql]: https://www.mysql.com/
 [csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
+[flutter]: https://flutter.dev/?gclid=Cj0KCQiAip-PBhDVARIsAPP2xc2G5Ckb5-naL_TAY0AdFOmzHNI4ed-ByfRJ4cycKCbm_cZzZbwT94IaAvgBEALw_wcB&gclsrc=aw.ds
 
 <br />
 <br />
