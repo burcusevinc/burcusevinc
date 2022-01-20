@@ -26,7 +26,7 @@
 
 <br>
 
-### My Github Stat:
+#### My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burcusevinc&theme=tokyonight)
 
 
