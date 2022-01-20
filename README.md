@@ -6,7 +6,7 @@
 - 📫 How to reach me: sburcusevinc@gmail.com
 
 ## Connect With Me
-- [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linkedin/linkedin.png" />][linkedin] [LinkedIn](https://tr.linkedin.com/in/burcusevinc)
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 ## Languages and Tools:
 
@@ -33,6 +33,7 @@
 [mysql]: https://www.mysql.com/
 [csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [flutter]: https://flutter.dev/?gclid=Cj0KCQiAip-PBhDVARIsAPP2xc2G5Ckb5-naL_TAY0AdFOmzHNI4ed-ByfRJ4cycKCbm_cZzZbwT94IaAvgBEALw_wcB&gclsrc=aw.ds
+[linkedin]: https://tr.linkedin.com/in/burcusevinc
 
 <br />
 <br />
