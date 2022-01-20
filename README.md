@@ -25,6 +25,7 @@
 [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][csharp]
 
 <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burcusevinc&theme=tokyonight)
 
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
@@ -40,4 +41,3 @@
 
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burcusevinc&theme=tokyonight)
