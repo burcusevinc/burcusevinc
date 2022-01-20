@@ -7,4 +7,3 @@
 
 ## 🔗 Connect With Me
 - :office: [LinkedIn](https://tr.linkedin.com/in/burcusevinc)
-- ⚡ [Medium] (https://medium.com/@sburcusevinc)
