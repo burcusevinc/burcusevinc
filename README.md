@@ -6,7 +6,7 @@
 - 📫 How to reach me: sburcusevinc@gmail.com
 
 ## Connect With Me
-- :office: [LinkedIn](https://tr.linkedin.com/in/burcusevinc)
+- [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linkedin/linkedin.png" />][linkedin] [LinkedIn](https://tr.linkedin.com/in/burcusevinc)
 
 ## Languages and Tools:
 
